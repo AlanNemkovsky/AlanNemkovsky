@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlanNemkovsky
-- 👀 I’m interested in quantitative development, specifically high-frequency trading.
-- 🌱 I’m currently learning advanced C++ and Java.
-- 💞️ I’m looking to collaborate on various projects and new methods for algorithmic trading.
+- 👀 I’m interested in Software Engineering, specifically best security practices.
+- 🌱 I’m currently studying towards my B.S. in Computer Science.
+- 💞️ I’m always looking to collaborate on new projects.
 - 📫 How to reach me ... LinkedIn!
 
 <!---
